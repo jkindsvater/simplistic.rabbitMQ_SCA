@@ -77,4 +77,4 @@ jobs:
       if: always()
       with:
         name: sarif-files
-        path: ./gh-fortify-sast.sarif 
+        path: ./gh-fortify-sast.sarif
